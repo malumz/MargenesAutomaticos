@@ -1,0 +1,13 @@
+/* Escribe aqui tu CSS */
+div {
+	width: 190px;
+	border: 15px solid #FFFF00;
+	padding: 5mm 10mm ;
+	margin: 10px;
+}
+.Izquierda {
+	text-align: center;
+}
+.Derecha {
+	margin: 5px 450px 50px 450px;
+}
