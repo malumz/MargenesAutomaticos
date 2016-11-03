@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 /* Escribe aqui tu CSS */
+=======
+/* Escribe aqui tu CSS */
+div {
+	width: 190px;
+	border: 15px solid #FFFF00;
+	padding: 5mm 10mm ;
+	margin: 10px;
+}
+.Izquierda {
+	text-align: center;
+}
+.Derecha {
+	margin: 5px 450px 50px 450px;
+}
+>>>>>>> 8546758592f0c68f5af2082405a917d73de30f3d
